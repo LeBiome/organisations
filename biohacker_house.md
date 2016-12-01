@@ -1,5 +1,5 @@
 ---
-title: Biohacker House Projetc
+title: Biohacker House Project
 label: We Are Biomers
 owner: LeBiome
 ---
