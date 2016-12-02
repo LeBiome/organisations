@@ -1,6 +1,6 @@
 ---
-title: Ressources de vie et faire communautaire
-label: WeAreBiomers
+title: Community
+label: Ressources de vie et faire communautaire de la commuanité des Biomers pouvant servir au delà de cette communauté
 owner: LeBiome
 ---
 
