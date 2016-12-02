@@ -1,6 +1,6 @@
 ----
-title: Objets technologiques bactériens
-label: Colonne de winogradsky, Aesthical hybrid living device et écologie
+title: Colonne de winogradsky, Aesthical hybrid living device, ByodIT et écologie
+label: Objets technologiques bactérien Colonne de winogradsky, Aesthical hybrid living device et écologie
 owner: LeBiome
 ---
 
