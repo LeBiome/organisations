@@ -1,6 +1,6 @@
 ---
-title: Biohacker House Project
-label: We Are Biomers
+title: Brojet à Rennes par #WeAreBiomers de maison + lab + nomades
+label: Biohacker House
 owner: LeBiome
 ---
 
