@@ -1,6 +1,6 @@
 --
-title: Oganiser, documentation d'ateliers, vie commune, retour d'experience
-label: Summer Camp 2016
+title : Oganiser, documentation d'ateliers, vie commune, retour d'experience
+label : Summer Camp 2016
 owner : nomades/summercampkerbors16
 ---
 
