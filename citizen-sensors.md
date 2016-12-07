@@ -1,6 +1,6 @@
 ---
-title: Capteurs citoyens de données environnemtales 
-label: BioMimicry Hacker
+title: Capteurs citoyens de données environnementales 
+label: Citizen sensors
 owner: XavCC/Citizen-Sensor
 ---
 
