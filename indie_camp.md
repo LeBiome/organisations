@@ -1,5 +1,5 @@
 ---
-title: Oganiser, documentation d'ateliers, vie commune, retour d'experience
+title: Oganidation frugale d'un camp, documentation d'ateliers, vie commune, retour d'experience
 label: Summer Camp 2016
 owner: nomades/summercampkerbors16
 ---
