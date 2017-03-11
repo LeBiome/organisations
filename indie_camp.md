@@ -1,7 +1,7 @@
 ---
-title: Oganidation frugale d'un camp, documentation d'ateliers, vie commune, retour d'experience
-label: Summer Camp 2016
-owner: nomades/summercampkerbors16
+title: Coorganisation frugale de camps pour makers et hackers, documentation d'ateliers, vie commune, retour d'experience
+label: Indie Camp
+owner: /nomades/camps
 ---
 
-> [Lien vers l'organisation](https://github.com/LeBiome/summer_camp_2016)
+> [Lien vers l'organisation](https://github.com/nomades/camps)
