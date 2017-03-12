@@ -1,6 +1,6 @@
 ---
 title: Documentations des réalisations de la communauté
-label: Protos et Projets
+label: Protos & Projets
 owner: LeBiome/Proto_et_Projets
 ---
 
