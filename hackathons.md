@@ -1,6 +1,6 @@
 ---
 title: Documentions et recettes des co-organisations avec le Biome et d'autres
-label: Hackatons
+label: Hackathons
 owner: LeBiome/Hackathons
 ---
 
